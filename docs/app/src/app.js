@@ -1,5 +1,6 @@
 'use strict';
 
+// angular documentation app module
 angular.module('docsApp', [
   'ngRoute',
   'ngCookies',
